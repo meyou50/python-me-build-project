@@ -1,0 +1,9 @@
+<maxaa ku fudud>
+variable
+datatypes
+
+<maxaa kugu adkaa>
+waxba waa easy
+
+<halqalad oo aad la kulantey iyo sida u xalisey>
+waxa ahaa python hi.py file ka igu adka si aan terminal ka uga soo muujiyo
